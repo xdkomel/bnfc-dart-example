@@ -1,0 +1,9 @@
+ConstInteger . Exp2 ::= Integer ;
+ConstDouble . Exp2 ::= Double ;
+Mul . Exp1 ::= Exp1 "*" Exp2 ;
+Div . Exp1 ::= Exp1 "/" Exp2 ;
+Sum . Exp ::= Exp "+" Exp1 ;
+Sub . Exp ::= Exp "-" Exp1 ;
+Brackets . Exp2 ::= "(" Exp ")" ;
+_ . Exp1 ::= Exp2 ;
+_ . Exp  ::= Exp1 ;

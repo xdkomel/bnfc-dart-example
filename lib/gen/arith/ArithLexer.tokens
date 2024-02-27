@@ -1,0 +1,16 @@
+Surrogate_id_SYMB_0=1
+Surrogate_id_SYMB_1=2
+Surrogate_id_SYMB_2=3
+Surrogate_id_SYMB_3=4
+Surrogate_id_SYMB_4=5
+Surrogate_id_SYMB_5=6
+DOUBLE=7
+INTEGER=8
+WS=9
+ErrorToken=10
+'*'=1
+'/'=2
+'+'=3
+'-'=4
+'('=5
+')'=6
